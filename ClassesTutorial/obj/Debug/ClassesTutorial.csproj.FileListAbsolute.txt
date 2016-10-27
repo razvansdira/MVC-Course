@@ -1,0 +1,6 @@
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
