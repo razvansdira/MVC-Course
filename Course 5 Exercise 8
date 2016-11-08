@@ -54,8 +54,9 @@
             mostly for implementing user interfaces (but not only for user interface). It
             divides a given software application into three interconnected parts, so as
             to separate internal representations of information from the ways that
-            information is presented to or accepted from the user. The model manages the behavior and data of the application domain,
-            responds to requests for information about its state (usually from the
+            information is presented to or accepted from the user. The model manages 
+            the behavior and data of the application domain, responds to requests for 
+            information about its state (usually from the
             view), and responds to instructions to change state.
         </p>
     </div>
